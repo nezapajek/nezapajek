@@ -1,4 +1,4 @@
-<h4 align="left">Hi there! I'm Neža, a molecular biologist from Ljubljana, Slovenia</h4>
+<h4 align="left">Hi there! I'm Neža, a molecular biologist & bioinformatician from Ljubljana, Slovenia</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
