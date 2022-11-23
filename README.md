@@ -2,7 +2,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neza-pajek-arambasic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neza-pajek-arambasic/" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/neza-pajek-arambasic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neza-pajek-arambasic/" height="30" width="40" /></a>  
 <a href="https://twitter.com/nezaarambasic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nezaarambasic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/npajek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="npajek" height="30" width="40" /></a>
 </p>
