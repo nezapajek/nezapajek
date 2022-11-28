@@ -16,7 +16,7 @@
 
 <h4 align="left">IDE:</h4>
 <p align="left">   
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="30" width="70"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="30" width="100"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="JupyterNotebook" height="30" width="90"/> </a>  
 <a href="https://www.r-studio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio" height="30" width="100"/> </a>  
 </p>
